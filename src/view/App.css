@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+}
+
+span.code {
+    font-family: Consolas, Courier New, Courier, monospace;
+}
+
+.resize {
+    width: auto;
+    display: inline-block;
+    text-align: center;
+}
+
+.resize img {
+    width: 60%;
+    height: auto;
+}
+
+p.result, p.center {
+    text-align: center;
+}
+
+p.result > span {
+    margin: 2em;
+    border: 1px solid black;
+    padding: 1em;
+}
