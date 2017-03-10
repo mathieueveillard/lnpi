@@ -1,16 +1,16 @@
 {
-  "name": "test",
-  "version": "0.1.0",
+  "name": "lnpi",
+  "version": "1.0.0",
   "private": true,
-  "homepage": "https://mathieueveillard.github.io",
+  "homepage": "https://mathieueveillard.github.io/lnpi",
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "react-scripts": "0.9.0"
   },
   "dependencies": {
     "bignumber.js": "^4.0.0",
-//    "material-design-lite": "^1.3.0",
-//    "mathjax": "^2.7.0",
+    "material-design-lite": "^1.3.0",
+    "mathjax": "^2.7.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
